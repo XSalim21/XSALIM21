@@ -33,7 +33,7 @@
 
 <div align="center">
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EdizKeskin&theme=tokyonight&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=XSalim21&theme=tokyonight&show_icons=true)  
 
 
 </div>
