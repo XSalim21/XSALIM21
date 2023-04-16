@@ -13,27 +13,6 @@
 <br/>
 
 
-<h3 align="center"><b>Connect with me</b></h3>
-<p align="center">
-
-&nbsp;&nbsp;
-[![website](./img/youtube-dark.svg)](https://youtube.com/outtyCodeX#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/outtyboy#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/outtyboy#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/salim22#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/salim22#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/outtycodex#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/outtycodex#gh-dark-mode-only)
-
-
-<br />
-<br />
-
-<div align="center">
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
@@ -51,24 +30,9 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 
 
-</div>
-
 <br />
 <br />
 
----
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/motion-canvas/examples/issues/3) in [motion-canvas/examples](https://github.com/motion-canvas/examples)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
-3. 💪 Opened PR [#1](https://github.com/codeSTACKr/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
-4. 💪 Opened PR [#1](https://github.com/studio-demo/cloudcash-sass/pull/1) in [studio-demo/cloudcash-sass](https://github.com/studio-demo/cloudcash-sass)
-5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
-<!--END_SECTION:activity-->
 
 </details>
 
